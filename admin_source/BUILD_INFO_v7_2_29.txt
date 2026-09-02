@@ -1,0 +1,6 @@
+Javanrood Neighborhood Management
+Version: 7.2.29
+Release date: 2026-07-28
+Feature: Public A4 block report with quarter-page map and trusted-member table
+Layout: Row, full name, national code, mobile number and position
+Database schema: 7226

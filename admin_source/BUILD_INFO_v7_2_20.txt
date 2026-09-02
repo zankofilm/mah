@@ -1,0 +1,9 @@
+Javanrood Neighborhood Management
+Build: v7.2.20 Professional Dashboard, Icons and Persian Typography
+Base: v7.2.19 Deleted QObject Runtime Guard
+Schema migration: none (database structure unchanged)
+Compatibility: Windows 10/11
+Dashboard: professional welcome/search strip, responsive horizontal module navigation, refined KPI and panel cards
+Icons: 294 normalized outline SVG assets, six official tones, cached icon loading
+Typography: best installed Persian UI font is selected automatically; optional local licensed fonts are supported
+Safety: v7.2.19 deleted-QObject guards and v7.2.18 place-type dropdown fix remain enabled

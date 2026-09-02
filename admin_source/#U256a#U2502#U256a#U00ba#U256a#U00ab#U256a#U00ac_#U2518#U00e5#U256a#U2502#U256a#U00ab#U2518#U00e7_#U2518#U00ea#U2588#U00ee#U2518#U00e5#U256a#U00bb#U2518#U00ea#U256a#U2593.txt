@@ -1,0 +1,12 @@
+راهنمای سریع ساخت EXE و Setup
+
+1) Python 3.11.9 x64 را نصب کنید و گزینه Python Launcher را فعال نگه دارید.
+2) Inno Setup 6 را نصب کنید.
+3) فایل ZIP را در مسیری مانند C:\JavanroodBuild استخراج کنید.
+4) روی build_setup_windows.bat دوبار کلیک کنید.
+5) تا پایان ساخت پنجره را نبندید.
+6) فایل‌ها در پوشه release ایجاد می‌شوند.
+
+خروجی‌ها:
+- JavanroodNeighborhoodManagement_Setup_7.2.3_Windows_x64.exe
+- JavanroodNeighborhoodManagement_7.2.3_Windows_x64_Portable.zip

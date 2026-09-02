@@ -1,0 +1,2 @@
+Build: 7.6.20
+Notes: Added independent A4 committee minutes, resolutions, touch/mouse signatures, and verified non-empty PDF exports in the admin panel.

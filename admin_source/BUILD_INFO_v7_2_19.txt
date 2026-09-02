@@ -1,0 +1,8 @@
+Javanrood Neighborhood Management
+Build: v7.2.19 Deleted QObject Runtime Guard
+Base: v7.2.18 Manual Place Type Dropdown Fix
+Schema migration: none (database structure unchanged)
+Compatibility: Windows 10/11
+Fix: prevent delayed UI polishing from accessing deleted QLabel/QFrame/QWidget wrappers
+Safety: full-tree polish is limited to live top-level windows; delayed button callbacks are guarded
+Regression: manual place type dropdown fix remains enabled

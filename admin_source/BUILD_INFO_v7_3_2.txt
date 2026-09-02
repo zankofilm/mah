@@ -1,0 +1,17 @@
+Javanrood Neighborhood Management 7.3.2
+Release date: 2026-07-28
+Schema version: 7320
+
+Release focus:
+- Block-level population estimation module
+- WorldPop/GHSL CSV, GeoJSON and optional GeoTIFF aggregation
+- Housing, occupancy, household-size and active-meter estimation
+- Weighted estimate, uncertainty interval, density and confidence
+- Dashboard integration, CSV export and persistent audit trail
+
+Validation completed:
+- 229 automated tests passed across 39 test files
+- 34 subtests passed
+- Admin/client compileall passed
+- Admin/client Windows static release checks passed
+- Live PyQt rendering not executed because PyQt5 was unavailable in the packaging container

@@ -1,0 +1,17 @@
+JAVANROOD NEIGHBORHOOD MANAGEMENT
+Build: v7.2.15 Comprehensive Social Council
+
+Direct source base:
+javanrood_map_app_v7_2_14_all_place_icons_managers_final.zip
+
+Implemented without removing prior modules:
+- Independent Social Council dossier for every zone
+- Members and multi-role membership
+- Social Council meetings and automatic venue-manager invitations
+- Social issues with target groups, location and confidentiality
+- Referrals to all six committees and response tracking
+- Social resolutions and operational action plans
+- Social dashboard, alerts and city comparison
+- Excel, Word and PDF exports
+- Global search integration
+- Schema migration 7215
