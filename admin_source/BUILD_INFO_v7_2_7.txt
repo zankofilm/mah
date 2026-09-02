@@ -1,0 +1,11 @@
+JAVANROOD NEIGHBORHOOD MANAGEMENT
+Build: v7.2.7 Dashboard Upgrade Package
+
+Base project:
+v7.2.6 committees_scroll_layout_fix
+
+Package preparation:
+- Source package preserved
+- Existing database structure preserved
+- No destructive migration applied
+- Ready for next development iteration

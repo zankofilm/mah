@@ -1,0 +1,7 @@
+Javanrood Neighborhood Management
+Build: v7.2.17 Social Council Bar Chart Reports
+Base: v7.2.16 Scroll and Dynamic Social Categories
+Schema migration: 7217
+Compatibility: Windows 10/11
+Charts: Native Qt grouped horizontal bar charts
+Exports: PNG, Word, PDF

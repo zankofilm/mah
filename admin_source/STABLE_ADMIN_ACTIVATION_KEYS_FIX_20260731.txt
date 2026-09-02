@@ -1,0 +1,12 @@
+اصلاح پایداری کلید ادمین فعال‌سازی - 2026-07-31
+
+علت خطا:
+در اجرای سورس، کلیدهای ادمین داخل پوشه data همان نسخه ذخیره می‌شدند. با استخراج نسخه جدید در پوشه دیگر، کلید جدید ساخته می‌شد و کلاینت آن را مدیر مورد اعتماد قبلی نمی‌شناخت.
+
+اصلاح:
+- کلیدهای فعال‌سازی ادمین در مسیر پایدار سیستم‌عامل ذخیره می‌شوند.
+- macOS: ~/Library/Application Support/JavanroodNeighborhoodManagement/security/client_exchange
+- Windows: LOCALAPPDATA/JavanroodNeighborhoodManagement/security/client_exchange
+- Linux: ~/.local/share/JavanroodNeighborhoodManagement/security/client_exchange
+- در اولین اجرا، کلیدهای مسیر قدیمی به مسیر پایدار مهاجرت می‌شوند.
+- دیتابیس و سایر داده‌ها بدون تغییر باقی می‌مانند.

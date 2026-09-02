@@ -1,0 +1,6 @@
+اصلاح هشدار تکراری Qt در پنل ادمین
+
+- ویژگی ناسازگار placeholder-text-color از QSS حذف شد.
+- رنگ Placeholder همچنان به‌صورت استاندارد با QPalette.PlaceholderText در icon_manager.py اعمال می‌شود.
+- سازگاری با PyQt5/Qt در macOS و Windows حفظ شد.
+- هیچ تغییری در دیتابیس، فعال‌سازی، تبادل JRCX، فرم‌ها یا منطق برنامه انجام نشد.

@@ -1,0 +1,3 @@
+Build: 7.5.1
+Date: 2026-07-29
+Changes: Fixed actual header/dashboard layout to match approved composition more closely.

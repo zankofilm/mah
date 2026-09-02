@@ -1,0 +1,3 @@
+Build: 7.6.2
+Date: 2026-07-29
+Changes: Header refined for closer 1:1 match to approved reference.

@@ -1,0 +1,22 @@
+{
+  "profile": "professional-line-v2",
+  "viewBox": "0 0 24 24",
+  "strokeWidth": 1.8,
+  "tones": {
+    "navy": "#123B73",
+    "white": "#FFFFFF",
+    "gold": "#C49A3A",
+    "success": "#23815A",
+    "danger": "#C43D4B",
+    "muted": "#6B7A90"
+  },
+  "filesUpdated": 294,
+  "counts": {
+    "navy": 49,
+    "white": 49,
+    "gold": 49,
+    "success": 49,
+    "danger": 49,
+    "muted": 49
+  }
+}

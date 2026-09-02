@@ -1,0 +1,5 @@
+Javanrood Neighborhood Management
+Build: v7.2.16 Social Council Scroll and Dynamic Categories
+Base: v7.2.15 Comprehensive Social Council
+Schema migration: 7216
+Compatibility: Windows 10/11

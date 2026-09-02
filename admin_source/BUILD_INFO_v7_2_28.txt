@@ -1,0 +1,6 @@
+Javanrood Neighborhood Management
+Version: 7.2.28
+Release date: 2026-07-28
+Feature: Professional block name labels and confusion-free map navigation
+Fix: Zoom-aware labels, block search, selection highlighting and map focus
+Database schema: 7226

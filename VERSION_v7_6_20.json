@@ -1,0 +1,6 @@
+{
+  "version": "7.6.20",
+  "base": "7.6.19",
+  "release": "stable_offline_system",
+  "migration": "7.6.19_to_7.6.20"
+}

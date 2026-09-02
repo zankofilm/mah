@@ -1,0 +1,2 @@
+Build: 7.6.9
+Notes: Official header emblem reduced and centered above ministry/governorate lines across admin and client headers.
