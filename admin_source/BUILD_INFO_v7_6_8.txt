@@ -1,3 +1,0 @@
-Build: 7.6.9
-Base: 7.6.7
-Scope: dashboard map zoom controls and mouse/trackpad interaction

@@ -1,3 +1,0 @@
-Build: 7.6.4
-Base: javanrood_v7_6_3_area_calculation_fixed_final.zip
-Fix: dashboard role_title startup NameError

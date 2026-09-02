@@ -1,3 +1,0 @@
-Build: 7.6.7
-Base: 7.6.6
-Scope: two-column sidebar, smaller icons, flag-only header, full scrollable dashboard map

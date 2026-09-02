@@ -1,3 +1,0 @@
-Build: 7.6.0
-Date: 2026-07-29
-Changes: Applied approved premium dashboard style across the admin source with exact flag asset and redesigned menus.

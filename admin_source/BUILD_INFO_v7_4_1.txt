@@ -1,3 +1,0 @@
-Build: 7.4.1
-Date: 2026-07-29
-Changes: Fixed official header text to "فرمانداری شهرستان جوانرود" across dashboard and login.

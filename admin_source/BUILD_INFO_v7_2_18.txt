@@ -1,7 +1,0 @@
-Javanrood Neighborhood Management
-Build: v7.2.18 Manual Place Type Dropdown Fix
-Base: v7.2.17 Social Council Bar Chart Reports
-Schema migration: none (schema remains 7217)
-Compatibility: Windows 10/11
-Fix: click-open place type dropdown, explicit open button, custom type + button
-Input safety: mouse-wheel changes blocked while popup is closed

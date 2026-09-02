@@ -1,3 +1,0 @@
-Build: 7.6.3
-Date: 2026-07-29
-Changes: Stable block/city area calculation, full metric recalculation, and city coverage summary.

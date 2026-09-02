@@ -1,7 +1,0 @@
-اصلاح هشدار فونت Qt در macOS
-=============================
-
-- دو تعریف font-family حاوی Vazirmatn و فونت‌های احتمالا نصب‌نشده از QSS عمومی حذف شد.
-- فونت رابط همچنان از مسیر استاندارد apply_application_typography و QApplication.setFont اعمال می‌شود.
-- هیچ فونت خارجی به بسته اضافه نشده و منطق، دیتابیس، فعال‌سازی و تبادل JRCX تغییر نکرده است.
-- نتیجه: پیام qt.qpa.fonts درباره missing font family Vazirmatn و هزینه alias scan حذف می‌شود.

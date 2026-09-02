@@ -1,6 +1,0 @@
-Javanrood Neighborhood Management
-Version: 7.2.27
-Release date: 2026-07-28
-Feature: Dashboard block messaging module activated
-Fix: Responsive windows for 1366x768 displays
-Database schema: 7226

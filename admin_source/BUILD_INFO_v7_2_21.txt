@@ -1,5 +1,0 @@
-Version: 7.2.21
-Base: 7.2.20
-Feature: Offline committee client licensing and encrypted file exchange
-Admin database schema: 7221
-Client formats: JRR / JRA / JRCX

@@ -1,4 +1,0 @@
-App Version: 7.6.14
-Schema Version: 7641
-Release Date: 2026-08-01
-Fix: Legacy admin backup restore / people_registry migration ordering

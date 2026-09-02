@@ -1,3 +1,0 @@
-Build: 7.3.6
-Date: 2026-07-28
-Changes: Professional redesign of dashboard icons and navigation menu.

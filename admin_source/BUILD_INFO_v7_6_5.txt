@@ -1,3 +1,0 @@
-Build: 7.6.5
-Base: javanrood_v7_6_4_dashboard_role_title_fixed_final.zip
-Fix: Dashboard reports summary initialization and removed reports_table compatibility
